@@ -1,0 +1,14 @@
+C:\Users\patel\source\repos\ConsoleApp1\prog1\bin\Debug\net10.0\prog1.exe
+C:\Users\patel\source\repos\ConsoleApp1\prog1\bin\Debug\net10.0\prog1.deps.json
+C:\Users\patel\source\repos\ConsoleApp1\prog1\bin\Debug\net10.0\prog1.runtimeconfig.json
+C:\Users\patel\source\repos\ConsoleApp1\prog1\bin\Debug\net10.0\prog1.dll
+C:\Users\patel\source\repos\ConsoleApp1\prog1\bin\Debug\net10.0\prog1.pdb
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\prog1.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\prog1.AssemblyInfo.cs
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\prog1.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\prog1.dll
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\refint\prog1.dll
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\prog1.pdb
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\prog1.genruntimeconfig.cache
+C:\Users\patel\source\repos\ConsoleApp1\prog1\obj\Debug\net10.0\ref\prog1.dll
